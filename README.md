@@ -1,7 +1,8 @@
 # 🦷 Cabinet Dentaire — Plateforme de Gestion de Rendez-vous en Ligne
 
 <p align="center">
-  <img src="RendezvousDentaire-master/jee/rendezVousDentaire/src/main/webapp/uploads/smile.png" alt="Logo Cabinet Dentaire" width="120"/>
+  <img width="706" height="645" alt="image" src="https://github.com/user-attachments/assets/24f10f2d-47f5-4730-a9f9-8c45bc2d8216" />
+
 </p>
 
 <p align="center">

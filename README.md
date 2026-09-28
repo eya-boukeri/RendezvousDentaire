@@ -1,7 +1,7 @@
 # 🦷 Cabinet Dentaire — Plateforme de Gestion de Rendez-vous en Ligne
 
 <p align="center">
-  <img width="706" height="645" alt="image" src="https://github.com/user-attachments/assets/24f10f2d-47f5-4730-a9f9-8c45bc2d8216" />
+  <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/24f10f2d-47f5-4730-a9f9-8c45bc2d8216" />
 
 </p>
 
